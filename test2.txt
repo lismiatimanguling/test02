@@ -1,0 +1,8 @@
+git init
+git remote add origin https://github.com/lismiatimanguling/test02.git
+git branch -M main
+
+git add .
+git status
+git commit -m "caption"
+git push origin main
